@@ -6,4 +6,9 @@
 
 
 ## dockerhub
-  https://hub.docker.com/repository/docker/matheussm4224/laravel
+	Repositorios do dockerhub.
+### desafio-1
+  	https://hub.docker.com/repository/docker/matheussm4224/laravel
+
+### desafio-2
+	https://hub.docker.com/repository/docker/matheussm4224/goreduce
